@@ -1,6 +1,6 @@
 # World Homicide 
 
-###(Data Science Project)
+###Data Science Project
 
 Some graphs about the countries with the highest number of total homicides and countries with highest average of homicides per inhabitant.
 
